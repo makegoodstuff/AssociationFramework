@@ -1,0 +1,3 @@
+[submodule "AssociationShared"]
+	path = AssociationShared
+	url = https://github.com/makegoodstuff/AssociationShared
